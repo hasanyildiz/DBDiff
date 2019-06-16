@@ -12,10 +12,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author EROLULKER
- */
 public class TableCompare {
     private static Connection sourceConn=null;
     private static Connection targetConn=null;

@@ -5,10 +5,6 @@
  */
 package Connection;
 
-/**
- *
- * @author EROLULKER
- */
 public class DBView {
     private String viewName;
     private int textLength;

@@ -5,10 +5,8 @@
  */
 package Connection;
 
-/**
- *
- * @author EROLULKER
- */
+
+
 public class DBConstraintColumn {
     private String constraintName;
     private String tableName;

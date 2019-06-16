@@ -5,10 +5,6 @@
  */
 package Connection;
 
-/**
- *
- * @author EROLULKER
- */
 public enum ConstraintType {
     PRIMARY_KEY,
     CHECK

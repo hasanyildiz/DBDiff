@@ -15,10 +15,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author EROLULKER
- */
+
 public class ConstraintCompare {
 
     private final Connection sourceConn;

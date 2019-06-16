@@ -5,10 +5,7 @@
  */
 package Connection;
 
-/**
- *
- * @author EROLULKER
- */
+
 public class DBIndexColumn {
     private String indexName;
     private String tableName;

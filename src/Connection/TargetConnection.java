@@ -11,10 +11,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/**
- *
- * @author EROLULKER
- */
 public class TargetConnection {
     private static Connection targetConn;
     private static String USERNAME="";

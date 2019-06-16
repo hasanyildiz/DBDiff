@@ -5,10 +5,7 @@
  */
 package Connection;
 
-/**
- *
- * @author EROLULKER
- */
+
 public enum AlterType {
     ADD, 
     MODIFY,

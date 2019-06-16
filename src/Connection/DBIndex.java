@@ -7,10 +7,7 @@ package Connection;
 
 import java.util.List;
 
-/**
- *
- * @author EROLULKER
- */
+
 public class DBIndex {
     private String indexName;
     private String tableName;

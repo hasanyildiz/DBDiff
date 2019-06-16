@@ -5,10 +5,7 @@
  */
 package Connection;
 
-/**
- *
- * @author EROLULKER
- */
+
 public class DBColumn {
 
     private String tableName;

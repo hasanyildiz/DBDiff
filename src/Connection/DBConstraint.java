@@ -7,10 +7,7 @@ package Connection;
 
 import java.util.List;
 
-/**
- *
- * @author EROLULKER
- */
+
 public class DBConstraint {
     private String constraintName;
     private String tableName;

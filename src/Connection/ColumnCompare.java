@@ -12,10 +12,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author EROLULKER
- */
+
 public class ColumnCompare {
 
     private static Connection sourceConn = null;
