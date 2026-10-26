@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VT_Fark">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/VT_Fark.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
