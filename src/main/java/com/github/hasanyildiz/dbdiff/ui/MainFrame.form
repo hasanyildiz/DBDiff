@@ -98,27 +98,27 @@
                                   <Group type="102" alignment="1" attributes="0">
                                       <Component id="lblSourceIp" max="32767" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="txtSourceIp" min="-2" pref="107" max="-2" attributes="0"/>
+                                      <Component id="txtSourceIp" min="-2" pref="130" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <Component id="lblSourcePort" max="32767" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="txtSourcePort" min="-2" pref="107" max="-2" attributes="0"/>
+                                      <Component id="txtSourcePort" min="-2" pref="130" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <Component id="lblSourceServiceName" max="32767" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="txtSourceServiceName" min="-2" pref="107" max="-2" attributes="0"/>
+                                      <Component id="txtSourceServiceName" min="-2" pref="130" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <Component id="lblSourceUsername" max="32767" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="txtSourceUsername" min="-2" pref="107" max="-2" attributes="0"/>
+                                      <Component id="txtSourceUsername" min="-2" pref="130" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <Component id="lblSourcePassword" max="32767" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="pwdSourcePassword" min="-2" pref="107" max="-2" attributes="0"/>
+                                      <Component id="pwdSourcePassword" min="-2" pref="130" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                               <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
@@ -126,27 +126,27 @@
                                   <Group type="102" alignment="1" attributes="0">
                                       <Component id="lblTargetIp" max="32767" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="txtTargetIp" min="-2" pref="107" max="-2" attributes="0"/>
+                                      <Component id="txtTargetIp" min="-2" pref="130" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <Component id="lblTargetPort" max="32767" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="txtTargetPort" min="-2" pref="107" max="-2" attributes="0"/>
+                                      <Component id="txtTargetPort" min="-2" pref="130" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <Component id="lblTargetServiceName" max="32767" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="txtTargetServiceName" min="-2" pref="107" max="-2" attributes="0"/>
+                                      <Component id="txtTargetServiceName" min="-2" pref="130" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <Component id="lblTargetUsername" max="32767" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="txtTargetUsername" min="-2" pref="107" max="-2" attributes="0"/>
+                                      <Component id="txtTargetUsername" min="-2" pref="130" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <Component id="lblTargetPassword" max="32767" attributes="0"/>
                                       <EmptySpace max="-2" attributes="0"/>
-                                      <Component id="pwdTargetPassword" min="-2" pref="107" max="-2" attributes="0"/>
+                                      <Component id="pwdTargetPassword" min="-2" pref="130" max="-2" attributes="0"/>
                                   </Group>
                               </Group>
                           </Group>
@@ -241,7 +241,7 @@
     </Component>
     <Component class="javax.swing.JTextField" name="txtSourceIp">
       <Properties>
-        <Property name="text" type="java.lang.String" value="192.168.2.3"/>
+        <Property name="text" type="java.lang.String" value="KAYNAK IP"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="lblSourcePort">
@@ -267,7 +267,7 @@
     </Component>
     <Component class="javax.swing.JTextField" name="txtSourceServiceName">
       <Properties>
-        <Property name="text" type="java.lang.String" value="ITMDATA"/>
+        <Property name="text" type="java.lang.String" value="KAYNAK DB"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="lblSourceUsername">
@@ -280,7 +280,7 @@
     </Component>
     <Component class="javax.swing.JTextField" name="txtSourceUsername">
       <Properties>
-        <Property name="text" type="java.lang.String" value="EKIP"/>
+        <Property name="text" type="java.lang.String" value="KAYNAK KULLANICI"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="lblSourcePassword">
@@ -342,7 +342,7 @@
     </Component>
     <Component class="javax.swing.JTextField" name="txtTargetUsername">
       <Properties>
-        <Property name="text" type="java.lang.String" value="EKIP"/>
+        <Property name="text" type="java.lang.String" value="HEDEF KULLANICI"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="lblTargetPassword">
